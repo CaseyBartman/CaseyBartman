@@ -1,4 +1,4 @@
-Casey Bartman | Junior at Ohio State University |  Computer and Information Science | 
+Casey Bartman | Junior at Ohio State University |  BS in Computer and Information Science
 - 👀 I’m interested in learning Automated Testing using Cypress
 - 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me: bartman.26@osu.edu
