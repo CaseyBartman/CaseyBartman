@@ -5,7 +5,7 @@ Casey Bartman | Junior at Ohio State University |  BS in Computer and Informatio
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play the guitar and love to cook!
 
-- Current Focus: Adding automated testing to a bill tracking we app project I've developed
+- Current Focus: Adding automated testing to a bill tracking web app project I've developed
 
 <!---
 CaseyBartman/CaseyBartman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
