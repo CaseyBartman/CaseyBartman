@@ -7,6 +7,10 @@ Casey Bartman | Junior at Ohio State University |  BS in Computer and Informatio
 
 - Current Focus: Adding automated testing to a bill tracking web app project I've developed
 
+
+GitHub Stats:
+github-readme-stats-delta-eight-11.vercel.app
+[![Casey's GitHub stats](https://github-readme-stats-delta-eight-11.vercel.app/api?username=caseybartman)]
 <!---
 CaseyBartman/CaseyBartman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
