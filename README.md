@@ -9,10 +9,11 @@ Casey Bartman | Junior at Ohio State University |  BS in Computer and Informatio
 
 
 GitHub Stats:
+![Casey's Github stats](https://github-readme-stats-delta-eight-11.vercel.app/api?username=caseybartman)
 
-(https://github-readme-stats-delta-eight-11.vercel.app/api?username=caseybartman)
-(https://github-readme-stats-delta-eight-11.vercel.app/api/top-langs/?username=caseybartman)
+
 <!---
+![Casey's Top Languages](https://github-readme-stats-delta-eight-11.vercel.app/api/top-langs/?username=caseybartman)]
 CaseyBartman/CaseyBartman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
