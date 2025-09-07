@@ -1,12 +1,8 @@
-Casey Bartman | Junior at Ohio State University |  BS in Computer and Information Science
+Casey Bartman | Senior at Ohio State University |  BS in Computer and Information Science
 - 👀 I’m interested in learning Automated E2E Testing using Cypress
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently learning to work with AWS for distributed enterprise computing
 - 📫 How to reach me: bartman.26@osu.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play the guitar and love to cook!
-
-- Current Focus: Adding automated testing to a bill tracking web app project I've developed
-
 
 GitHub Stats:
 ![Casey's Github stats](https://github-readme-stats-delta-eight-11.vercel.app/api?username=caseybartman)
